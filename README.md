@@ -1,2 +1,2 @@
-# FirstJava
-Premier essai de code Java sur GitHub
+# TPOpenClassroom
+Premier exercice OC
